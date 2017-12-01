@@ -1,4 +1,0 @@
-/home/danm/Soft/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/danm/code/lab_tips
--- Configuring done
--- Generating done
--- Build files have been written to: /home/danm/code/lab_tips/cmake-build-debug
